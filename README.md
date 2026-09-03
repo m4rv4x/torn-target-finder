@@ -34,8 +34,8 @@ Une **liste de cibles personnalisée** pour Torn, construite depuis **tes propre
 
 ```bash
 # Clone
-git clone https://github.com/m4rv4x/torn-baldr-custom.git
-cd torn-baldr-custom
+git clone https://github.com/m4rv4x/torn-target-finder.git
+cd torn-target-finder
 
 # Sers localement (n'importe quel serveur statique)
 python3 -m http.server 8000
